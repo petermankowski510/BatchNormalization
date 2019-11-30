@@ -10,6 +10,7 @@ matplotlib
 numpy
 
 ### How to Run
+### Or not to run
 Run the python notebook by cd into the directory in command line then run
 ```
 jupyter notebook
